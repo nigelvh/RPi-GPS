@@ -1,7 +1,7 @@
 # GPS Board for Standard Form-Factor RPi Boards
 This is a small custom board for use with standard form-factor RPi single board computers.
 
-<img src="[https://github.com/nigelvh/NTP-GPS/raw/main/NTP-GPS V1.0.JPG](https://raw.githubusercontent.com/nigelvh/RPi-GPS/main/Image_Board_V1.0_withoutPours.png)">
+<img src="https://raw.githubusercontent.com/nigelvh/RPi-GPS/main/Image_Board_V1.0_withoutPours.png">
 
 This is not a wholly unique device, there are other devices that perform similar functions or some subset thereof. It is certainly not the only way to accomplish the task.
 
