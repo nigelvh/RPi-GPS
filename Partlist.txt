@@ -1,0 +1,16 @@
+Part     Value          Device           Package    	Digikey Link
+C1       47pF           CAP0603-CAP      0603-CAP   	https://www.digikey.com/en/products/detail/yageo/CC0603JRNPO9BN470/302799
+C2       0.1uF          CAP0603-CAP      0603-CAP   	https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNWC/3887593
+
+J7       HEADER-2X5-0.1 HEADER-2X5-0.1   HEADER-2X5 	https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC052LFBN-RC/810245
+
+L1       27nH           INDUCTOR0603     0603       	https://www.digikey.com/en/products/detail/murata-electronics/LQG15HS27NJ02D/662877
+
+LED1                    LED0603          LED-0603   	https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS75000/4489906
+
+R1       1K             RESISTOR0603-RES 0603-RES   	https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT1K00/1761077
+R2       10             RESISTOR0603-RES 0603-RES   	https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT10R0/1761152
+
+U1       UBLOX_MAX      UBLOX_MAX        UBLOX_MAX  	https://www.digikey.com/en/products/detail/u-blox/MAX-M8C-0/6150635
+
+X1       SMA            SMA              SMA_EDGE   	https://www.digikey.com/en/products/detail/cinch-connectivity-solutions-johnson/142-0701-801/35280
